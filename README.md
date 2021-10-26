@@ -1,6 +1,6 @@
 # OUJ_introduction_of_CS
 
-# 概要
+## 概要
 
 * 放送大学
 * 2021年2学期受講
