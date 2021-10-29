@@ -7,7 +7,7 @@ type = [[10000, 2], [5000, 3], [2000, 2], [1000, 6], [
 for i, j in type:
     num = int(pay / i)
     if num >= 1:
-        print(i, j, num)
+        # print(i, j, num)
         if num >= j:
             num = j  # 所持金の中で支払える枚数
             print(str(i) + "円×" + str(num))
